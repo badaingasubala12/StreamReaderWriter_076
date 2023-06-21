@@ -42,6 +42,7 @@ int main() {
 	// menunjuk ke sebuah file
 	infile.open(Namafile, ios::in);
 
+
 	cout << endl << ">= Membuka dan membaca file " << endl;
 	//jika file ada maka
 	if (infile.is_open())
