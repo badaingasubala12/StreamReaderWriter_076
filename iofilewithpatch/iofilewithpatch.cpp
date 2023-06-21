@@ -20,7 +20,6 @@ int main() {
 
 	//unlimited loop untuk menulis
 
-
 	while (true) {
 		cout << "_ ";
 		//mendapatkan setiap karakter dalam satu baris
