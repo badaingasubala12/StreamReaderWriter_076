@@ -14,6 +14,7 @@ int main()
 		//cout <<data.at(5)<<endl;
 		///memanggil array elemen ke 5
 	}
+
 	catch (exception& e) {
 		//penangkap menggunakan objek exception
 		cout << e.what() << endl;
